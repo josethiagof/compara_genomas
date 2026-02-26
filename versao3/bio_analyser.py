@@ -1,5 +1,6 @@
 import pandas as pd
 import os
+#import
 
 # CONFIGURAÇÕES
 PATH_GENERA = "/media/thiago/thiago_linux/codigos_python/analise_genera/dados/genera.csv"
